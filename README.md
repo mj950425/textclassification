@@ -17,6 +17,6 @@
 
 ---
 ### 관련 자료
-
+https://github.com/mj950425/kaggle_transcription/blob/main/toxic_%ED%95%84%EC%82%AC.ipynb
 
 ---
