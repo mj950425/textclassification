@@ -13,6 +13,8 @@
 
 욕설, 성적, 공격적인 텍스트 데이터를 분류하기 위해서 multi binaray classification이 필요하다.
 
+간단하게 아래 3가지 방법이 존재한다.
+
 *   Binary Relevance : 각 특징들끼리 관계가 없다고 가정하고 독립적으로 binary classification
 
 *   Classifier Chains : 하나씩 이어서 classification
