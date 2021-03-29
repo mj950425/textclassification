@@ -11,6 +11,16 @@
 
 👀 나아가 완벽한 페르소나를 만들기 위해서 원하는 챗봇의 성격에 맞는 데이터들만 가져올 수 있도록 하는것이 목표이다. 
 
+욕설, 성적, 공격적인 텍스트 데이터를 분류하기 위해서 multi binaray classification이 필요하다.
+
+*   Binary Relevance : 각 특징들끼리 관계가 없다고 가정하고 독립적으로 binary classification
+
+*   Classifier Chains : 하나씩 이어서 classification
+
+*   Label Powerset : 2^feature로 예측하기
+
+
+
 
 
 ---
