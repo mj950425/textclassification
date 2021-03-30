@@ -22,6 +22,26 @@
 *   Label Powerset : 2^feature로 예측하기
 
 
+Binary Relevance 와 Classifier Chains를 통해서 
+
+toxic
+severe_toxic
+obscene
+threat
+insult
+identity_hate
+
+6가지 multiclass classification을 수행
+
+https://github.com/mj950425/kaggle_transcription/blob/main/toxic_%ED%95%84%EC%82%AC.ipynb
+
+word2vec으로 임베딩을 뽑은 뒤 classification 진행 -> 의미있는 성능 get
+
+하지만 종속인 칼럼들이 아니라 같은 카테고리에 속하는 칼럼이라 생각이 들어 굳이 multiclass classification을 할 필요가 있을까?
+
+Toxic or non Toxic으로 나누는 다른 kaggle competition을 찾아봄
+
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 
 
