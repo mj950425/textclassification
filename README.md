@@ -51,9 +51,6 @@ https://github.com/mj950425/kaggle_transcription/blob/main/toxic_classification_
 ![image](https://user-images.githubusercontent.com/52944973/113390906-98703000-93cd-11eb-8c79-aaa0ce89c194.png)
 (출처 koco)
 
-![image](https://user-images.githubusercontent.com/52944973/113391004-c48bb100-93cd-11eb-8cad-8d8bfa7aa5de.png)
-![image](https://user-images.githubusercontent.com/52944973/113390946-aa51d300-93cd-11eb-9781-9263b2a79b68.png)
-
 (출처 aihub)
 
 ---
