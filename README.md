@@ -41,7 +41,22 @@ word2vec으로 임베딩을 뽑은 뒤 classification 진행 -> 의미있는 성
 
 Toxic or non Toxic으로 나누는 다른 kaggle competition을 찾아봄
 
-https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+여기선 버트를 활용
+https://github.com/mj950425/kaggle_transcription/blob/main/toxic_classification_Bert.ipynb
+
+### 데이터셋 만들기
+
+---
+
+![image](https://user-images.githubusercontent.com/52944973/113390906-98703000-93cd-11eb-8c79-aaa0ce89c194.png)
+(출처 koco)
+
+![image](https://user-images.githubusercontent.com/52944973/113391004-c48bb100-93cd-11eb-8cad-8d8bfa7aa5de.png)
+![image](https://user-images.githubusercontent.com/52944973/113390946-aa51d300-93cd-11eb-9781-9263b2a79b68.png)
+
+(출처 aihub)
+
+---
 
 
 
@@ -50,5 +65,7 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 ---
 ### 관련 자료
 https://github.com/mj950425/kaggle_transcription/blob/main/toxic_%ED%95%84%EC%82%AC.ipynb
+https://github.com/inmoonlight/koco
+
 
 ---
