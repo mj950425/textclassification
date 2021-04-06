@@ -44,6 +44,10 @@ Toxic or non Toxic으로 나누는 다른 kaggle competition을 찾아봄
 여기선 버트를 활용
 https://github.com/mj950425/kaggle_transcription/blob/main/toxic_classification_Bert.ipynb
 
+한국어 기반으로 된 Kcbert에 Koco에서 fine tune한 버트 모델이 존재
+https://github.com/mj950425/textclassification/blob/main/koco.ipynb
+(성능이 아주 좋다)
+
 ### 데이터셋 만들기
 
 ---
