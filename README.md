@@ -48,6 +48,8 @@ https://github.com/mj950425/kaggle_transcription/blob/main/toxic_classification_
 https://github.com/mj950425/textclassification/blob/main/koco.ipynb
 (성능이 아주 좋다)
 
+하지만 슈ㅣ발을 욕설로 잡아 주지 못하는 단점이 존재했는데, 중요한것은 데이터셋에서 욕설을 통과시키지 않는것이니 다소 손해가 있더라도 rule based로 한번 걸러주고 모델을 돌려주는것을 구상 중
+
 ### 데이터셋 만들기
 
 ---
