@@ -46,17 +46,17 @@ https://github.com/mj950425/kaggle_transcription/blob/main/toxic_classification_
 
 한국어 기반으로 된 Kcbert에 Koco에서 fine tune한 버트 모델이 존재
 https://github.com/mj950425/textclassification/blob/main/koco.ipynb
-(성능이 아주 좋다)
 
-하지만 슈ㅣ발을 욕설로 잡아 주지 못하는 단점이 존재했는데, 중요한것은 데이터셋에서 욕설을 통과시키지 않는것이니 다소 손해가 있더라도 rule based로 한번 걸러주고 모델을 돌려주는것을 구상 중
+ELECTRA를 활용
+https://github.com/Beomi/KcELECTRA
 
-### 데이터셋 만들기
-
+### 데이터셋 
 ---
 
 ![image](https://user-images.githubusercontent.com/52944973/113390906-98703000-93cd-11eb-8c79-aaa0ce89c194.png)
 (출처 koco)
-
+https://github.com/bab2min/corpus/tree/master/sentiment
+일베 데이터
 (출처 aihub)
 
 ---
